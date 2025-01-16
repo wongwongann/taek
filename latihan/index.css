@@ -1,0 +1,17 @@
+p {
+    color: white;
+    width: 70%;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body {
+    background-image: url(0f91cd2d-7896-471d-b351-9cd645351bf1.jpg);
+    backdrop-filter: blur(10px);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1 {
+    color: white;
+    font-family: 'Vogue', sans-serif;
+}
